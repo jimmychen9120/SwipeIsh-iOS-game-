@@ -1,5 +1,5 @@
 # SwipeIsh-iOS-game-
-(In Progress) iOS game based on the handgame "Ish"
+iOS game based on the handgame "Ish"
 
 *THIS REPOSITORY WILL ONLY SHOW CERTAIN FUNCTIONS OF THE APP, NOT EVERYTHING NEEDED TO CODE THE FULL APP
 
